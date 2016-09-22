@@ -23,25 +23,25 @@ Before You Begin
 
 2.  https://github.com/ibmdataworks/sigmo-demos/tree/master/application-developer/nodejsDashboard.zip
 
-> NOTE: If you don’t have a Bluemix account then get started for free by registering using the following steps:
+ > NOTE: If you don’t have a Bluemix account then get started for free by registering using the following steps:
 
 1.  Go to [www.bluemix.net](http://www.bluemix.net)
 
-2.  Click the signup button on the top right
+1.  Click the signup button on the top right
 
-> <img src="./media/image2.png" width="624" height="171" />
+ > <img src="./media/image2.png" width="624" height="171" />
 
 1.  On the next page fill in the corresponding fields and click “Create Account”
 
-> <img src="./media/image3.png" width="624" height="300" />
+ > <img src="./media/image3.png" width="624" height="300" />
 
 1.  You will see a page asking you to check your email for next steps. Check your email that you used to sign up for Bluemix
 
-> <img src="./media/image4.png" width="237" height="219" />
+ > <img src="./media/image4.png" width="237" height="219" />
 
 1.  Click on the “confirm your account” link
 
-> <img src="./media/image5.png" width="396" height="330" />
+ > <img src="./media/image5.png" width="396" height="330" />
 
 ***Start of Lab***
 
